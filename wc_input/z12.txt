@@ -1,0 +1,7 @@
+Every few years, in fact, a new study like Albain's materializes, each following a remarkably similar logic: 
+Researchers identify a disparity in health outcomes (cancer survival or response to treatment, for example) 
+that falls along racial fault lines; investigators then adjust for socioeconomic status, and, when the disparity persists, 
+conclude it must be genetic. That consistent failure of reasoning bemuses Jay Kaufman, a McGill University professor of epidemiology 
+who studies health disparities. "Why are we still doing this study?" he says. "If you are trying to make the argument that 
+[different health outcomes] must be genetic by exhausting other possibilities and saying what is left over must be genes, well, 
+that's never going to work. There are a million things that affect people's lives. If you think it's genes, then measure genes."
